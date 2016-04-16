@@ -2,11 +2,11 @@
 <metadata>
   <groupId>org.whispersystems</groupId>
   <artifactId>signal-service-java</artifactId>
-  <version>2.1.1fetchMessages</version>
+  <version>2.1.1fetchMessages_provisioning</version>
   <versioning>
     <versions>
-      <version>2.1.1fetchMessages</version>
+      <version>2.1.1fetchMessages_provisioning</version>
     </versions>
-    <lastUpdated>20160325115939</lastUpdated>
+    <lastUpdated>20160416112754</lastUpdated>
   </versioning>
 </metadata>
