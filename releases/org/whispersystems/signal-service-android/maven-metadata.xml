@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.whispersystems</groupId>
-  <artifactId>signal-service-java</artifactId>
+  <artifactId>signal-service-android</artifactId>
   <versioning>
     <release>2.1.1b_fetchMessages_provisioning</release>
     <versions>
-      <version>2.1.1fetchMessages_provisioning</version>
       <version>2.1.1b_fetchMessages_provisioning</version>
     </versions>
     <lastUpdated>20160718112704</lastUpdated>
